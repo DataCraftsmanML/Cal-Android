@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textview">TextView</string>
+    <string name="calculator">calculator</string>
+    <string name="first_digit">first digit</string>
+    <string name="second_digit">second digit</string>
+    <string name="enter">enter</string>
+    <string name="name">Name</string>
+    <string name="name1">Name</string>
+    <string name="eg">eg</string>
+    <string name="eg1">eg</string>
+    <string name="eg2">eg</string>
+    <string name="eg4">eg</string>
+    <string name="enter_first_digit">Enter First Digit</string>
+    <string name="enter_second_digit">Enter Second Digit</string>
+    <string name="enter1">Enter</string>
+    <string name="todo">TODO</string>
+</resources>
